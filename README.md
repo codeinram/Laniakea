@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; }
-        h1 { font-size: 1.8em; }
         h2 { font-size: 1.4em; margin-top: 2em; }
         p { margin-bottom: 1em; }
         ul { padding-left: 20px; }
@@ -14,8 +13,6 @@
     </style>
 </head>
 <body>
-
-<h1>Laniakea Amplifier Design</h1>
 
 <p>The aim is to offer a highly musical design using available parts.</p>
 
