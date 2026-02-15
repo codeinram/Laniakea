@@ -1,5 +1,4 @@
 # Laniakea is a continuation on Q17
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
